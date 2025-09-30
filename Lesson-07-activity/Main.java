@@ -18,7 +18,9 @@ class Main {
     Challenge 2:
     1) Create the variables, ask the user for the variable values, write the equation in fileEQ1.1-act6 and display the equation value.
 */
-  
+    System.out.println(x:"enter q");
+    double z = 
+    double q = Math.pow(z,3) + 5;
 
 /*  
     Challenge 3:
